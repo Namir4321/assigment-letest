@@ -1,0 +1,14 @@
+[
+  {
+    "id": "8c3bf504-5fb2-4d4d-99ee-ccfb502d3dea",
+    "name": "name",
+    "email": "name@gmail.com",
+    "password": "$2b$10$WN0X3ZZ4I5UuTaLWN0I2I.BWx/cQtj0cfWwTC/AYC4JaPJBWnanTG"
+  },
+  {
+    "id": "19537d2d-ab74-4f28-889d-38ca2b61d644",
+    "name": "name2",
+    "email": "name2@gmail.com",
+    "password": "$2b$10$OClHX6zbGkKUoVFFXE9pjOqiydPROhz1pncxp0GssY.3do.BGjKS2"
+  }
+]
